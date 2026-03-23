@@ -14,7 +14,7 @@ This project is a Spotify-inspired web UI built using HTML and CSS as part of my
 - Styling layouts using CSS (Flexbox)
 - Implementing responsiveness using media queries
 - Writing clean and organized code
-## 🌐 Live Demo
-(Add GitHub Pages link here after deployment)
+## 🌐 Live Demo Link
+(https://janhavi123-hash.github.io/spotify-clone/)
 ---
 This project helped me strengthen my understanding of frontend development basics.
