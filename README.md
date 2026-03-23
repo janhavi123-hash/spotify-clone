@@ -1,4 +1,4 @@
-# spotify-clone
+# Spotify-clone
 # 🎵 Spotify-Inspired Web UI
 This project is a Spotify-inspired web UI built using HTML and CSS as part of my web development learning journey.
 ## 🚀 Features
